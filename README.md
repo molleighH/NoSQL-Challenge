@@ -1,5 +1,5 @@
 # NoSQL-Challenge
-## Module 12 Homework 
+### Module 12 Homework 
 
 <img align="right" width="250" height="150" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/uk%20food%20standards%20agency.jpeg?raw=true">
 
@@ -83,13 +83,3 @@ The first 5 rows of your resulting DataFrame should look something like this:
 <p align="center">
 <img src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/part3M12chart.png?raw=true" width="600" height="280" border="10"/>
 </p>
-
-# Color Test Document
-
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
-
-## Second Heading
-
-This is a test to see how the colors work.

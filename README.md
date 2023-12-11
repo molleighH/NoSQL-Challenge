@@ -1,12 +1,12 @@
 # NoSQL-Challenge
-### Module 12 Homework 
+## Module 12 Homework 
 
 <img align="right" width="250" height="150" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/uk%20food%20standards%20agency.jpeg?raw=true">
 
 <samp>The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.</samp>
 
 
-## Part 1: Database and Jupyter Notebook Set Up
+## <span style="color:blue">Part 1: Database and Jupyter Notebook Set Up</span>
 
 ##### Use NoSQL_setup_starter.ipynb for this section of the challenge.
     
@@ -53,10 +53,10 @@
 
 <samp>*Eat Safe, Love* has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.</samp>
 
-    + **Some notes to be aware of while you are exploring the dataset:**
-        + RatingValue refers to the overall rating decided by the Food Authority and ranges from 1-5. The higher the value, the better the rating.
-            + **Note:** This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating. We will coerce non-numeric values to nulls during the database setup before converting ratings to integers.
-        + The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. This means, the higher the value, the worse the establishment is in these areas.
++ **Some notes to be aware of while you are exploring the dataset:**
+    + RatingValue refers to the overall rating decided by the Food Authority and ranges from 1-5. The higher the value, the better the rating.
+        + **Note:** This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating. We will coerce non-numeric values to nulls during the database setup before converting ratings to integers.
+    + The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. This means, the higher the value, the worse the establishment is in these areas.
 
 Use the following questions to explore the database, and find the answers, so you can provide them to the magazine editors.
 

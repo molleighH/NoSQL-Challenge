@@ -1,5 +1,6 @@
 # NoSQL-Challenge
-### Module 12 Homework 
+## <p align="right">Module 12 Homework </p>
+<p align="right">Module 12 Homework </p>
 
 <img align="right" width="250" height="150" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/uk%20food%20standards%20agency.jpeg?raw=true">
 

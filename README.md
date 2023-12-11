@@ -30,7 +30,7 @@
 
 ##### Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
-<img align="right" width="250" height="300" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Screenshot%202023-12-10%20at%207.43.52%20PM.png?raw=true">
+<img align="right" width="400" height="350" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Screenshot%202023-12-10%20at%207.43.52%20PM.png?raw=true">
 
 The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
 

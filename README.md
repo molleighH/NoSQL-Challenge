@@ -51,7 +51,8 @@
 
 ##### Use NoSQL_analysis_starter.ipynb for this section of the challenge.
 
-Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
+Italic
+*Eat Safe, Love* has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
 
 Use NoSQL_analysis_starter.ipynb for this section of the challenge.
 

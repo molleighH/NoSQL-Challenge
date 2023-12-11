@@ -58,7 +58,7 @@
         + **Note:** This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating. We will coerce non-numeric values to nulls during the database setup before converting ratings to integers.
     + The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. This means, the higher the value, the worse the establishment is in these areas.
 
-$${\color{lightblue}Use \space the \space following $$	Use the following questions to explore the database, and find the answers, so you can provide them to the magazine editors.
+Use the following questions to explore the database, and find the answers, so you can provide them to the magazine editors.
 
 Unless otherwise stated, for each question:
 
@@ -83,3 +83,13 @@ The first 5 rows of your resulting DataFrame should look something like this:
 <p align="center">
 <img src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/part3M12chart.png?raw=true" width="600" height="280" border="10"/>
 </p>
+
+# Color Test Document
+
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
+
+## Second Heading
+
+This is a test to see how the colors work.

@@ -32,7 +32,7 @@
 
 <img align="right" width="400" height="350" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/addcodem12.png?raw=true">
 
-<samp>The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:</samp>
+<span style="color:blue"><samp>The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:</samp></span>
 
 * An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following information to the database:
 

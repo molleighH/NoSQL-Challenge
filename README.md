@@ -32,7 +32,7 @@
 
 <img align="right" width="400" height="350" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/addcodem12.png?raw=true">
 
-<span style="color:blue"><samp>The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:</samp></span>
+<samp>The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:</samp>
 
 * An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following information to the database:
 
@@ -58,7 +58,7 @@
         + **Note:** This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating. We will coerce non-numeric values to nulls during the database setup before converting ratings to integers.
     + The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. This means, the higher the value, the worse the establishment is in these areas.
 
-Use the following questions to explore the database, and find the answers, so you can provide them to the magazine editors.
+<span style="color:blue">Use the following questions to explore the database, and find the answers, so you can provide them to the magazine editors. </span> 
 
 Unless otherwise stated, for each question:
 

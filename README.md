@@ -30,8 +30,8 @@
 
 ##### Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
-The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
-
 <img align="right" width="250" height="300" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Screenshot%202023-12-10%20at%207.43.52%20PM.png?raw=true">
+
+The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
 
 * An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following information to the database:

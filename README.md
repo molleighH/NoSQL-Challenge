@@ -1,7 +1,10 @@
 # NoSQL-Challenge
 # Module 12 Homework 
 <br>
-![Alt text](https://www.food-safety.com/ext/resources/News/2022/2022-04/7629-FSA-logo.png?1671018486)
+![image](https://github.com/molleighH/NoSQL-Challenge/assets/144710935/8684cb8f-72ca-4cf0-9cd2-85d635784c75)
+
+
+
 <br>
 <samp>The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.<</samp>>
 

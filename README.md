@@ -1,12 +1,12 @@
 # NoSQL-Challenge
-## Module 12 Homework 
+### Module 12 Homework 
 
 <img align="right" width="250" height="150" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/uk%20food%20standards%20agency.jpeg?raw=true">
 
-<samp>The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.<</samp>>
+<samp>The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.</samp>
 
 
-### Part 1: Database and Jupyter Notebook Set Up
+## Part 1: Database and Jupyter Notebook Set Up
 
 ##### Use NoSQL_setup_starter.ipynb for this section of the challenge.
     
@@ -26,3 +26,12 @@
     
 * Assign the establishments collection to a variable to prepare the collection for use.
 
+## Part 2: Update the Database
+
+##### Use NoSQL_setup_starter.ipynb for this section of the challenge.
+
+The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
+
+<img align="right" width="250" height="150" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Screenshot%202023-12-10%20at%207.43.52%20PM.png?raw=true">
+
+* An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following information to the database:

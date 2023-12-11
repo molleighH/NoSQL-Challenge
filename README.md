@@ -87,5 +87,5 @@ Hint: You will need to use the aggregation method to answer this.
 The first 5 rows of your resulting DataFrame should look something like this:
 
 <p align="center">
-<img src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/part3M12chart.png?raw=true" width="600" height="350" border="10"/>
+<img src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/part3M12chart.png?raw=true" width="600" height="300" border="10"/>
 </p>

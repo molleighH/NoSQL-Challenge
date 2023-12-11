@@ -1,7 +1,7 @@
 # NoSQL-Challenge
 ### Module 12 Homework 
 
-<img align="right" width="250" height="150" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/uk%20food%20standards%20agency.jpeg?raw=true">
+<img align="right" width="250" height="150" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/uk%20food%20standards%20agency.jpeg?raw=true">
 
 <samp>The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.</samp>
 
@@ -30,7 +30,7 @@
 
 ##### Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
-<img align="right" width="400" height="350" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Screenshot%202023-12-10%20at%207.43.52%20PM.png?raw=true">
+<img align="right" width="400" height="350" src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/addcodem12.png?raw=true">
 
 <samp>The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:</samp>
 
@@ -87,5 +87,5 @@ Hint: You will need to use the aggregation method to answer this.
 The first 5 rows of your resulting DataFrame should look something like this:
 
 <p align="right">
-<img src="https://github.com/molleighH/NoSQL-Challenge/blob/main/part3M12chart.png?raw=true" width="200" height="100" border="10"/>
+<img src="https://github.com/molleighH/NoSQL-Challenge/blob/main/Resources/part3M12chart.png?raw=true" width="400" height="350" border="10"/>
 </p>
